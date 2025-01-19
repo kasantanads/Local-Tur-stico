@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", serif;   
+    width: 1280px;
+}
+
+p {
+    color: #333;
+}
+
+img {
+    border-radius: 28px;
+}
+
+#title-page {
+    padding: 88px 80px 0px;
+
+    h2 {
+        color: #E1624F;
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+}
+
+#decription-and-image {
+    img {
+         padding: 40px 80px 0px;          
+    }
+
+    #busan {
+        text-align: center;
+        padding: 24px 80px;
+        font-style: italic;
+    }
+}
+
+#content-list {
+    padding: 40px 80px;
+}
+
+#title-list {
+    h2 {
+        color: #E1624F;
+        font-size: 16px;
+        margin-bottom: 2px;
+    }
+
+    p {
+        margin-top: 8px;
+    }
+}
+
+.good-for {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.historia {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+#img1 {
+    padding: 64px 0px 20px;
+}
+
+#list {
+    img {
+        padding: 48px 0px 20px;
+    }
+}
+
+.list-p {
+    margin-top: 4px;
+}
+
+#desc {
+    padding: 0px 80px;
+    text-align: center;
+}
+
+#p-desc {
+    margin-top: 40px;
+}
+
+#credits {
+    text-align: center;
+    margin: 76px
+}
+
+#heart {
+    width: 16px;
+    vertical-align: middle;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+#casais {
+    font-weight: bold;
+    color: #591B98;
+}
+
+#familias {
+    font-weight: bold;
+    color: #E5245E;
+}
+
+#orcamento {
+    font-weight: bold;
+    color: #E95E10;
+}
